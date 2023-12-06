@@ -11,6 +11,9 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Classroom.unity
     guid: e0da2685267fe5345bab9810c3229f29
+  - enabled: 1
+    path: Assets/ChemLab.unity
+    guid: 4faab355be087f246a0c92159e72a1db
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 43904b07f0efad14c96e43f2b7ef5512,
       type: 2}
